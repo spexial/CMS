@@ -1,2 +1,2 @@
 # CMS
-A simple CMS
+A simple CMS by PHP and Jquery
