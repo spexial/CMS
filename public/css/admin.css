@@ -1,0 +1,61 @@
+#app{ width:100%;float:left;min-height: 650px;}
+.admin-box { width:250px;height:150px;margin-left:30px;float:left;border:1px solid whitesmoke;text-align: right;color:white;}
+.blue {background-color: #3598dc;}
+.red {background-color: #e7505a;}
+.skyblue {background-color: #32c5d2;}
+.purple {background-color: #8E44AD;}
+.blue .box-footer {background-color: #258fd7;}
+.red .box-footer {background-color: #e53e49;}
+.skyblue .box-footer {background-color: #2bb8c4;}
+.time { color:#31708f;left:17em;top:0.3em;}
+.dropdown img {width: 3em;height:3em;border-radius: 200px;}
+.purple .box-footer {background-color: #823e9e;}
+.admin-box .panel-body {font-size: 16px;}
+.admin-box .panel-body span {font-size: 30px;}
+.admin-box > a:hover {text-decoration: none;}
+.box-footer {margin-top:13px;line-height: 30px;text-align: left;padding-left: 5px;padding-right: 5px;color:white;}
+.box-footer i{ float: right;margin-top: 10px;}
+.btn-default {  height:50px;  }
+.group {margin-top: 20px;}
+.form-group-body { min-height:300px;float: left;  border-bottom: 1px solid #eef1f5;width: 1058px;margin-right: 10px;}
+.form-group-product-body { min-height:300px;float: left;  border-bottom: 1px solid #eef1f5;width: 978px;margin-right: 10px;}
+.form-actions {height:50px;margin: 0 0 0 200px; }
+.admin-setting { width:1100px;border: 1px solid whitesmoke;padding: 20px 20px;margin-top: 50px;min-height:450px;}
+.admin-log { width:1100px;border: 1px solid whitesmoke;padding: 20px 20px;margin-top: 50px;min-height:500px;}
+.admin-products { border: 1px solid whitesmoke;padding: 20px 20px;min-height:450px;margin-left: 250px;}
+.admin-article { border: 1px solid whitesmoke;padding: 20px 20px;min-height:950px;margin-left: 250px;}
+.admin-admin { border: 1px solid whitesmoke;padding: 20px 20px;min-height:450px;margin-left: 250px;}
+.admin-user { border: 1px solid whitesmoke;padding: 20px 20px;min-height:450px;margin-left: 250px;}
+.portlet-title {min-height:40px;border-bottom: 1px solid #eef1f5;line-height: 20px;font-size: 16px;color: #32c5d2 !important;padding: 0 0 10px 0;}
+.portlet-body { border: 1px solid whitesmoke;margin-top: 10px;}
+.setting-button > button{  margin-top: 20px;  background-color: #26a1ab;color:#FFFFFF; }
+.message {  margin-left: 500px;  }
+.page { float: right;}
+.footer { width:100%;height: 30px;position:fixed;bottom:0;text-align: center;border-top:1px solid whitesmoke;color: black;line-height: 35px;z-index:100000;background-color: whitesmoke;}
+.search button{  background-color: #217ebd;color:#FFFFFF; }
+.admin-article .search { margin-top: 10px;}
+.button{ float: right;background-color: green; margin-top: -10px;height:35px;line-height: 35px;}
+.button > a{ color:#ffffff;text-decoration: none;}
+.required { color:red; }
+.control-label {text-align: right;padding-top: 7px;}
+#group1{display: block;}
+#group2{display: none;}
+#group3{display: none;}
+#group4{display: none;}
+#group5{display: none;}
+#group6{display: none;}
+.event {display: none;}
+.url {display: none;}
+.error-name{display: none;}
+.error-key{display: none;}
+.error-title{display: none;}
+.error-description{display: none;}
+.error-image{display: none;}
+.error-imgUrl{display: none;}
+.error-url{display: none;}
+.parent-menu {display: none;}
+.error-msg {display: none;width: 15%;height:50px;font-size: 15px;top:40%;left:27%;line-height:50px;text-align: center;position:absolute;background-color: #555555;color:white;z-index: 2;}
+
+
+
+
